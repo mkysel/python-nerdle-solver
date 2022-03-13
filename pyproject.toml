@@ -1,0 +1,15 @@
+[project]
+name = "python-nerdle-solver"
+version = "0.1.0"
+description = "Nerdle Solver in Python"
+authors = [
+    "Martin Kysel <code@martinkysel.com>",
+]
+license = "GPL-3.0"
+readme = "README.md"
+python = "^3.10"
+homepage = "https://github.com/mkysel/python-nerdle-solver"
+repository = "https://github.com/mkysel/python-nerdle-solver"
+documentation = "https://github.com/mkysel/python-nerdle-solver"
+
+keywords = ["nerdle", "puzzle"]
